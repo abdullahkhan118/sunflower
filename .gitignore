@@ -1,0 +1,19 @@
+*.iml
+.gradle
+/local.properties
+.idea/*
+!.idea/copyright
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+ktlint
+# Project exclude paths
+/.github/
+/.google/
+/app/
+/buildscripts/
+/docs/
+/gradle/
+/macrobenchmark/
+/screenshots/
